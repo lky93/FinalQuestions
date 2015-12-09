@@ -1,0 +1,64 @@
+(Reference: csci140: cs3 notes(Prof. Admas notes))
+
+Networking:
+1: Difference in UDP, RMI, servlet and TCP/IP
+2: Process of communication for TCP/IP, UDP, RMI (pseudo code,chart)
+3: At what point one of the protocol has advantage over the others(more logical)
+4: Function getHostName and getHostAddress
+5: WebServer in mycourses(question on that)
+6: Protocol FTP and UDP
+7: Why is RMI slower
+8: Difference btn bind and rebind?
+9: What is serialize?
+10: Heavy weight apps and light weight apps?
+11: RMI process communication step by step
+12: Multithreaded web server with constraints
+13: How to avoid Denial Of Sevice?
+14: Why are UnicastRemoteObject required?
+
+Collections:
+15: Difference in arraylist, linkedlist, binary tree, list
+16: What is iterator and where are they used
+17: Design interface using iterable
+18: Pseudo code: BFS, DFS, inorder, preorder, postorder
+18-a: Show the sequence of a elements for a traversal given a tree
+19: Difference in comparable and comparator(pseudo code for the them). When to use either one
+20: Why can't a list be sorted
+21: How is arraylist and vector increased
+22: Difference in hastable, hashmap and hashset
+23: What is hashcode 
+24: Pseudocode for equals method
+25: Mechanisms to avoid collasion in hashmap
+26: Given hashmap show which elements will collide(When will collasion occur)
+26-a: Why is hashing used
+26-b: How to retrieve desirable value from the hashmap(Equals method)
+
+GUI:
+27: List out layout style as manager
+28: What is a GUI layout and examples of layout
+29: How to implement an event handler(17.2 steps from hp's slide)
+30: Show in code: action, event and action listener
+31: List out types of layout manager
+31-a: Explain the different layout(grid layout, flow layout)
+
+Design patterns:
+33: Why do we need design pattern
+34: Major types of pattern
+35: What is anti pattern
+36: Where do design patterns occur in java
+
+Reflection:
+37: Why is reflection used
+38: Define unit test, why is it used
+39: Monitoring code using reflection api
+40: Question like 15.5 in hp's slide(output of the code) passing different parameters to the a code
+
+
+Generic questions: 
+given code what is the output of the code(small web server question 5)
+GUI: Given a gui what does it draw
+Given a gui with event handlers what is the output(just the output nothing else){not convuluted,just the three component}
+
+Notes:
+Use drawing and arrows in GUI question no description
+
